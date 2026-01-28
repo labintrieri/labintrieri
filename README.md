@@ -1,6 +1,6 @@
 # Oi!
 
-**Sou Laura Intrieri, repórter na [Folha de S.Paulo](https://www.folha.uol.com.br/)** · Jornalismo de Dados
+**Sou Laura Intrieri, repórter na [Folha de S.Paulo](https://www.folha.uol.com.br/)**
 
 Escrevo para a editoria de **Política** em São Paulo. Já atuei na coluna Mônica Bergamo e na editoria de Mercado. Participei do 68º Programa de Treinamento do Diário da Folha.
 
