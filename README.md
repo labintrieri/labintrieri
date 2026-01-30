@@ -26,6 +26,22 @@ Levantamento com dados do TSE mostrou que jovens até 34 anos caíram de 25% par
 
 ---
 
+## Projetos
+
+### [Fala, deputado!](https://trabalhofinalmjd.vercel.app)
+Ferramenta interativa para consulta de dados sobre deputados brasileiros. Trabalho final do Master em Jornalismo de Dados.
+**Tecnologias:** Python, HTML, CSS → [Ver repositório](https://github.com/labintrieri/trabalhofinalmjd)
+
+### [São Paulo Vazia](https://github.com/labintrieri/narrativas-imersivas)
+Narrativa imersiva explorando a solidão urbana de São Paulo através de fotografia e storytelling interativo.
+**Tecnologias:** HTML, Python → [Ver repositório](https://github.com/labintrieri/narrativas-imersivas)
+
+### [Portfólio automatizado](https://automacao-rby3.onrender.com/)
+Site com raspagem de dados do Sesc e bot no Telegram integrado.
+**Tecnologias:** Flask, Web Scraping, Telegram Bot → [Ver repositório](https://github.com/labintrieri/automacao)
+
+---
+
 ## Ferramentas
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
